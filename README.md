@@ -3,6 +3,8 @@
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=13&text=Welcome%20to%20Junseok's%20GitHub!&fontSize=40&fontColor=819FF7&animation=fadeIn)
 </div>
 
+<br/>
+
 <div align="center">  
   <h3>🔨 Once I've used 🔨</h3>
   <div style="display:flex; flex-direction:column; align-items:flex-start; justify-contents:center;">
@@ -35,10 +37,12 @@
   </div>
 </div>
 
+<br/>
+<br/>
+<br/>
 
-<br>
 <div align="center">
-  <h3>Algorithm (Python / Java)</h3>
+  <h3>🔨 Algorithm (Python / Java) 🔨</h3>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepaa15)](https://solved.ac/pepaa15)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepaa152)](https://solved.ac/pepaa152)  
