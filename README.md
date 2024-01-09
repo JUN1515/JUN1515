@@ -36,6 +36,13 @@
 </div>
 
 
+<br>
+<div align="center">
+  <h3>Algorithm (Python / Java)</h3>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepaa15)](https://solved.ac/pepaa15)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pepaa152)](https://solved.ac/pepaa152)  
+</div>
 
 
 
